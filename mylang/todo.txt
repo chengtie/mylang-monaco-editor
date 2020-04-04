@@ -1,5 +1,0 @@
-1. add boolean operators：AND、OR、XOR、NOT
-2. add IF function (like IF in Excel)
-3. make the calculator accept string values
-4. add string functions like CONCAT in Excel
-5. write a makefile (rather than runme) to compile the files

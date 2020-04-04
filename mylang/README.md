@@ -20,7 +20,3 @@ $ ./calc
 ```
 
 Then you could write expressions such as `2+3`, `4*5`, and press `Enter` to check the result.
-
-## Exercice
-
-You could then try to improve this calculator, for example, make it accept more operators and functions. See `todo.txt` for some suggestions.
