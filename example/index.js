@@ -23,7 +23,7 @@ class CodeEditor extends React.Component {
   editorWillMount = editor => {
     console.log("editorWillMount")
 
-    // Register a new language
+    // Register a new language  
     monaco.languages.register({ id: 'mySpecialLanguage' });
 
     // Register a tokens provider for the language
@@ -80,7 +80,6 @@ class CodeEditor extends React.Component {
     });
 
   }
-
 
   editorDidMount = editor => {
     // eslint-disable-next-line no-console
