@@ -1,21 +1,3 @@
-<h1 align="center">react-monaco-editor</h1>
-
-<div align="center">
-
-[Monaco Editor](https://github.com/Microsoft/monaco-editor) for React.
-
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][npm-url]
-[![Build Status](https://travis-ci.com/react-monaco-editor/react-monaco-editor.svg?branch=master)](https://travis-ci.com/react-monaco-editor/react-monaco-editor)
-
-[![react-monaco-editor](https://nodei.co/npm/react-monaco-editor.png)](https://npmjs.org/package/react-monaco-editor)
-
-[npm-url]: https://npmjs.org/package/react-monaco-editor
-[downloads-image]: http://img.shields.io/npm/dm/react-monaco-editor.svg
-[npm-image]: http://img.shields.io/npm/v/react-monaco-editor.svg
-
-</div>
-
 ## Examples
 
 To build the examples locally, run:
@@ -28,12 +10,6 @@ yarn start
 ```
 
 Then open `http://localhost:8886` in a browser.
-
-## Installation
-
-```bash
-yarn add react-monaco-editor
-```
 
 ## Using with Webpack
 
@@ -251,7 +227,3 @@ module.exports = function override(config, env) {
 ```
 
 For more information checkout the documentation of `react-app-rewired` [here](https://github.com/timarney/react-app-rewired).
-
-# License
-
-MIT, see the [LICENSE](/LICENSE.md) file for detail.
