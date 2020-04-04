@@ -1,3 +1,4 @@
+/* eslint-disable object-shorthand */
 /* eslint-disable no-var */
 /* eslint-disable no-template-curly-in-string */
 /* eslint-disable prettier/prettier */
